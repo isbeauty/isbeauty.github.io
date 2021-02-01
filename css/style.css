@@ -1,0 +1,9 @@
+.bd-navbar{
+    background: -webkit-linear-gradient(
+        -70deg
+        , #db469f 0%, #2188ff 100%);
+}
+.bd-navbar-toggler{
+    color: #fff!important;
+    border-color: transparent!important;
+}
