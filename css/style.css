@@ -1,9 +1,22 @@
-.bd-navbar{
-    background: -webkit-linear-gradient(
-        -70deg
-        , #db469f 0%, #2188ff 100%);
+.markdown-body h1,.markdown-body h2{border-bottom:none}
+.norepeat{background-repeat:no-repeat}
+.bg-size-contain{background-size:contain}
+.bg-position-50{background-position:50% 50%}
+img,iframe{max-width:100%}
+.app-inner{position:relative}
+.app-innerwrap{width:100%;min-height:calc(100vh - 51px)}
+.js-Pjax-remove{position:absolute;left:50%}
+.Animated{animation-fill-mode:both;animation-duration:1s}
+.Animated--reverse{animation-direction:reverse}
+.Animate--fast{animation-duration:.5s}
+.Animate--noDelay{animation-delay:0!important}
+.Animate--slideInRight{animation-name:Animation-slideInRight}
+@keyframes Animation-slideInRight {
+0%{opacity:0;transform:translateX(100rem)}
+100%{transform:translateX(0)}
 }
-.bd-navbar-toggler{
-    color: #fff!important;
-    border-color: transparent!important;
+.Animate--slideInLeft{animation-name:Animation-slideInLeft}
+@keyframes Animation-slideInLeft {
+0%{opacity:0;transform:translateX(-100rem)}
+100%{transform:translateX(0)}
 }
