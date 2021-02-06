@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on ISBeauty</title><link>https://isbeauty.github.io/categories/</link><description>Recent content in Categories on ISBeauty</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Feb 2021 01:03:53 +0800</lastBuildDate><atom:link href="https://isbeauty.github.io/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>LumiVie</title><link>https://isbeauty.github.io/categories/lumivie/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/categories/lumivie/</guid><description/></item><item><title>Naturally</title><link>https://isbeauty.github.io/categories/naturally/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/categories/naturally/</guid><description/></item><item><title>skincare</title><link>https://isbeauty.github.io/categories/skincare/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/categories/skincare/</guid><description/></item><item><title>Skinvigorate Sonic</title><link>https://isbeauty.github.io/categories/skinvigorate-sonic/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/categories/skinvigorate-sonic/</guid><description/></item><item><title>Youthfinity</title><link>https://isbeauty.github.io/categories/youthfinity/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/categories/youthfinity/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ISBeauty</title>
+    <link>https://isbeauty.github.io/categories/</link>
+    <description>Recent content in Categories on ISBeauty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Feb 2021 01:03:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://isbeauty.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LumiVie</title>
+      <link>https://isbeauty.github.io/categories/lumivie/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/categories/lumivie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturally</title>
+      <link>https://isbeauty.github.io/categories/naturally/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/categories/naturally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skincare</title>
+      <link>https://isbeauty.github.io/categories/skincare/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/categories/skincare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skinvigorate Sonic</title>
+      <link>https://isbeauty.github.io/categories/skinvigorate-sonic/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/categories/skinvigorate-sonic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youthfinity</title>
+      <link>https://isbeauty.github.io/categories/youthfinity/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/categories/youthfinity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

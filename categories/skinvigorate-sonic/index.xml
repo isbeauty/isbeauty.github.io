@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Skinvigorate Sonic on ISBeauty</title><link>https://isbeauty.github.io/categories/skinvigorate-sonic/</link><description>Recent content in Skinvigorate Sonic on ISBeauty</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Feb 2021 01:03:53 +0800</lastBuildDate><atom:link href="https://isbeauty.github.io/categories/skinvigorate-sonic/index.xml" rel="self" type="application/rss+xml"/><item><title>Mary Kay Skinvigorate Next Gen Set</title><link>https://isbeauty.github.io/products/mary-kay-skinvigorate-next-gen-set/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/products/mary-kay-skinvigorate-next-gen-set/</guid><description/></item><item><title>Mary Kay Skinvigorate Sonic Facial Massage Head</title><link>https://isbeauty.github.io/products/mary-kay-skinvigorate-sonic-facial-massage-head/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/products/mary-kay-skinvigorate-sonic-facial-massage-head/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skinvigorate Sonic on ISBeauty</title>
+    <link>https://isbeauty.github.io/categories/skinvigorate-sonic/</link>
+    <description>Recent content in Skinvigorate Sonic on ISBeauty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Feb 2021 01:03:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://isbeauty.github.io/categories/skinvigorate-sonic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mary Kay Skinvigorate Next Gen Set</title>
+      <link>https://isbeauty.github.io/products/mary-kay-skinvigorate-next-gen-set/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/products/mary-kay-skinvigorate-next-gen-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mary Kay Skinvigorate Sonic Facial Massage Head</title>
+      <link>https://isbeauty.github.io/products/mary-kay-skinvigorate-sonic-facial-massage-head/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/products/mary-kay-skinvigorate-sonic-facial-massage-head/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

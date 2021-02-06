@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brands on ISBeauty</title><link>https://isbeauty.github.io/brands/</link><description>Recent content in Brands on ISBeauty</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Feb 2021 01:03:53 +0800</lastBuildDate><atom:link href="https://isbeauty.github.io/brands/index.xml" rel="self" type="application/rss+xml"/><item><title>Mary Kay</title><link>https://isbeauty.github.io/brands/mary-kay/</link><pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate><guid>https://isbeauty.github.io/brands/mary-kay/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brands on ISBeauty</title>
+    <link>https://isbeauty.github.io/brands/</link>
+    <description>Recent content in Brands on ISBeauty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Feb 2021 01:03:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://isbeauty.github.io/brands/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mary Kay</title>
+      <link>https://isbeauty.github.io/brands/mary-kay/</link>
+      <pubDate>Tue, 02 Feb 2021 01:03:53 +0800</pubDate>
+      
+      <guid>https://isbeauty.github.io/brands/mary-kay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
