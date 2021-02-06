@@ -10,17 +10,34 @@ img,iframe{max-width:100%}
 .app-inner{position:relative}
 .app-innerwrap{width:100%;min-height:calc(100vh - 51px)}
 .js-Pjax-remove{position:absolute;left:50%}
-.Animated{animation-fill-mode:both;animation-duration:1s}
 .Animated--reverse{animation-direction:reverse}
-.Animate--fast{animation-duration:.5s}
-.Animate--noDelay{animation-delay:0!important}
-.Animate--slideInRight{animation-name:Animation-slideInRight}
-@keyframes Animation-slideInRight {
-0%{opacity:0;transform:translateX(100rem)}
-100%{transform:translateX(0)}
+:root {
+  --animate-duration: 1s;
+  --animate-delay: 1s;
+  --animate-repeat: 1;
 }
-.Animate--slideInLeft{animation-name:Animation-slideInLeft}
-@keyframes Animation-slideInLeft {
-0%{opacity:0;transform:translateX(-100rem)}
-100%{transform:translateX(0)}
+.animate__animated.animate__faster {
+  -webkit-animation-duration: calc(1s / 2);
+  animation-duration: calc(1s / 2);
+  -webkit-animation-duration: calc(var(--animate-duration) / 2);
+  animation-duration: calc(var(--animate-duration) / 2);
 }
+.animate__animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-duration:var(--animate-duration);animation-duration:var(--animate-duration);-webkit-animation-fill-mode:both;animation-fill-mode:both}
+@-webkit-keyframes fadeInLeft {
+from{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}
+to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+}
+@keyframes fadeInLeft {
+from{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}
+to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+}
+.animate__fadeInLeft{-webkit-animation-name:fadeInLeft;animation-name:fadeInLeft}
+@-webkit-keyframes fadeInRight {
+from{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}
+to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+}
+@keyframes fadeInRight {
+from{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}
+to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+}
+.animate__fadeInRight{-webkit-animation-name:fadeInRight;animation-name:fadeInRight}
