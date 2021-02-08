@@ -2,9 +2,10 @@ html {scroll-behavior: smooth;}
 @media screen and (prefers-reduced-motion: reduce) {
 html {scroll-behavior: auto;}
 }
+body{word-wrap: break-word;}
+#appHeader{transition: top 0.3s;top: 0; }
 .markdown-body h1,.markdown-body h2{border-bottom:none}
 .norepeat{background-repeat:no-repeat}
 .bg-size-contain{background-size:contain}
 .bg-position-50{background-position:50% 50%}
 img,iframe{max-width:100%}
-.app-inner{position:relative;width:100%;min-height:calc(100vh - 75px)}
